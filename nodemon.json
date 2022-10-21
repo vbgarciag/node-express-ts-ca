@@ -6,5 +6,5 @@
   "ignore": [
       "src/**/*.spec.ts"
   ],
-  "exec": "ts-node ./src/infrastructure/adapters/api-rest/app.ts"
+  "exec": "ts-node ./src/api/express/app.ts"
 }
